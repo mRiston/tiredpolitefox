@@ -1,0 +1,2 @@
+Number to use for converting raw JSON output for throughput into "C-Level-Friendly" Mbps
+{raw.json.throughput.result}/124998.941379907
